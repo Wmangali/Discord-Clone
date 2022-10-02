@@ -1,0 +1,231 @@
+body{
+  background-image:url('images (19).jpeg');
+  background-repeat:no-repeat;
+  background-size:cover;
+  height:356px;
+}
+
+li{
+  display:flex;
+  display:inline-block;
+  margin:10px;
+  font-family:sans-serif;
+  color:white;
+  font-size:13px;
+  font-family:sans-serif;
+}
+ul{
+  margin-left:286px;
+}
+.discord{
+  height:50px;
+  position:absolute;
+  top:10px;
+}
+.login{
+  border-radius:400px;
+  padding:10px;
+  padding-right:10px;
+  position:absolute;
+  right:167px;
+  top:20px;
+  background-color:white;
+  color:black;
+  cursor:pointer;
+}
+.head{
+  text-align:center;
+  top:100px;
+  position:absolute;
+  right:240px;
+  font-size:60px;
+  color:white;
+  font-family:sans-serif;
+}
+.peo{
+  color:white;
+  top:200px;
+  position:absolute;
+  right:200px;
+  font-family:sans-serif;
+}
+.pa{
+  color:white;
+  top:220px;
+  position:absolute;
+  right:200px;
+  font-family:sans-serif;
+}
+.para{
+  color:white;
+  top:240px;
+  position:absolute;
+  right:350px;
+  font-family:sans-serif;
+}
+.window{
+  padding:10px;
+  border-radius:70px;
+  position:absolute;
+  background-color:white;
+  color:black;
+  top:300px;
+  right:494px;
+}
+.browser{
+  padding:10px;
+  border-radius:70px;
+  position:absolute;
+  background-color:black;
+  color:white;
+  top:300px;
+  right:288px;
+}
+.dcnew{
+  top:400px;
+  position:absolute;
+  height:300px;
+  right:500px;
+}
+.create{
+  top:400px;
+  position:absolute;
+  right:280px;
+  font-family:sans-serif;
+}
+.place{
+  top:430px;
+  position:absolute;
+  right:270px;
+  font-family:sans-serif;
+}
+.belong{
+  top:460px;
+  position:absolute;
+  right:350px;
+  font-family:sans-serif;
+}
+.server{
+  position:absolute;
+  top:520px;
+  right:210px;
+  font-family:sans-serif;
+}
+.channel{
+  position:absolute;
+  top:540px;
+  right:170px;
+  font-family:sans-serif;
+}
+.talk{
+  position:absolute;
+  top:560px;
+  right:170px;
+  font-family:sans-serif;
+}
+.section{
+  position:absolute;
+  top:700px;
+  height:300px;
+  right:80px;
+}
+.hanging{
+  position:absolute;
+  top:700px;
+  right:500px;
+  font-size:60px;
+  font-family:sans-serif;
+}
+.out{
+  position:absolute;
+  top:760px;
+  right:620px;
+  font-size:60px;
+  font-family:sans-serif;
+}
+.voice{
+  top:870px;
+  position:absolute;
+  left:20px;
+  font-family:sans-serif;
+}
+.friend{
+  top:890px;
+  position:absolute;
+  left:20px;
+  font-family:sans-serif;
+}
+.pop{
+  top:910px;
+  position:absolute;
+  left:20px;
+  font-family:sans-serif;
+}
+.section3{
+  top:1000px;
+  position:absolute;
+  height:300px;
+}
+.s3{
+  position:absolute;
+  left:440px;
+  font-size:60px;
+  font-family:sans-serif;
+}
+.few{
+  position:absolute;
+  left:600px;
+  font-size:60px;
+  font-family:sans-serif;
+}
+.to{
+  position:absolute;
+  left:720px;
+  font-size:60px;
+  font-family:sans-serif;
+}
+.a{
+  position:absolute;
+  left:800px;
+  font-size:60px;
+  font-family:sans-serif;
+}
+.fandom{
+  position:absolute;
+  top:80px;
+  left:430px;
+  font-size:60px;
+  font-family:sans-serif;
+}
+.get{
+  position:absolute;
+  top:190px;
+  width:400px;
+  left:500px;
+  font-family:sans-serif;
+}
+.custom{
+  position:absolute;
+  width:400px;
+  top:210px;
+  left:500px;
+  font-family:sans-serif;
+}
+.power{
+  position:absolute;
+  width:400px;
+  top:230px;
+  left:500px;
+  font-family:sans-serif;
+}
+.section4{
+  top:1500px;
+  position:absolute;
+}
+.title{
+ top:10px;
+ margin:1px;
+  font-size:70px;
+  text-align:center;
+  font-family:sans-serif;
+}
